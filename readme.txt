@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick AND simple.
 Test --no-ff git merge.
 Test bug fixed.
+Test git stash.
